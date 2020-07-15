@@ -1,9 +1,9 @@
 # ML-Maths-in-Python-Linear-Algebra-Calculas-PCA-
 
 
-#Topics: 
+# Topics: 
 
-##Linear Algebra
+## Linear Algebra
 
 1. Singular Matrix Check 
 2. Reflecting Basis (Plane):Reflecting an image 
